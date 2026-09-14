@@ -1,1 +1,20 @@
+# Day 11 - Try hack me 
 
+**Date:14-09-2026**  
+
+**What I learned today:**
+- LAN(Local area network) small network in a area like home,school and office.
+- Switch connects many devices on the same network. 
+- Router connects one device network to another
+- Topologies(how the network is designed)
+- Address Resolution Protocol
+
+
+**Code / Concepts practiced:**
+- switch vs router
+- subnetting words (network, host, gateway)
+- ARP and DHCP basics
+- topology lab
+
+**Mistakes I made / Things I found difficult:**
+- subnetting still feels a bit har  
